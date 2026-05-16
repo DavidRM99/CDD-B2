@@ -1,0 +1,966 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605161917228P3OF9</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260516191722R8N2GF</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Producto final CDD B2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>David Ruiz Moreno</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Recurso educativo para Biología y Geología de 3º Diversificación centrado en la organización anatómica y funcional del cuerpo humano. Incluye contenidos teóricos, actividades y evaluación</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778946285865</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1778938201205-ejuefg9yx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Presentación y descripción del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778938201205-ejuefg9yx</odePageId>
+      <odeBlockId>block-1778945599933-4zs6un77n</odeBlockId>
+      <blockName></blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778938201205-ejuefg9yx</odePageId>
+          <odeBlockId>block-1778945599933-4zs6un77n</odeBlockId>
+          <odeIdeviceId>idevice-1778945599930-ol0d66s3l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1280px;">
+<div class="figcaption header"><strong>Cuerpo humano</strong></div>
+<img src="{{context_path}}/content/resources/anatomy-charts-human-body-muscle-systems-skeletal.webp" width="1280" height="830" alt="" />
+<figcaption class="figcaption"><span class="author">Andreadonetti / Dreamstime.com</span>. <a href="https://www.britannica.com/science/human-body#/media/1/275485/218753" class="title" target="_blank" rel="noopener"><em>Cuerpo humano - Encyclopædia Britannica</em></a> <span class="license"><span class="sep">(</span><span class="custom-license">All Rights Reserved</span><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778945599930-ol0d66s3l","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1280px;\">\n<div class=\"figcaption header\"><strong>Cuerpo humano</strong></div>\n<img src=\"{{context_path}}/content/resources/anatomy-charts-human-body-muscle-systems-skeletal.webp\" width=\"1280\" height=\"830\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Andreadonetti / Dreamstime.com</span>. <a href=\"https://www.britannica.com/science/human-body#/media/1/275485/218753\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>Cuerpo humano - Encyclopædia Britannica</em></a> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">All Rights Reserved</span><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778938201205-ejuefg9yx</odePageId>
+      <odeBlockId>block-1778938662790-oaf0cc5ls</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778938201205-ejuefg9yx</odePageId>
+          <odeBlockId>block-1778938662790-oaf0cc5ls</odeBlockId>
+          <odeIdeviceId>idevice-1778938662787-9bqiypfjy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="90vh" style="width: 100%; height: 90vh; border: 0;" src="https://docs.google.com/document/d/e/2PACX-1vTNup_BzvjLjr5J3m3-NjdqVHLH6ixkrw5enum3WHRPS5XufYQ-rOsFlbFQMFr9jfw0ioFyfvAvaICy/pub?embedded=true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778938662787-9bqiypfjy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100\" height=\"90vh\" style=\"width: 100%; height: 90vh; border: 0;\" src=\"https://docs.google.com/document/d/e/2PACX-1vTNup_BzvjLjr5J3m3-NjdqVHLH6ixkrw5enum3WHRPS5XufYQ-rOsFlbFQMFr9jfw0ioFyfvAvaICy/pub?embedded=true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778938221150-5h4ni6wm2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Información sobre protección de datos personales y garantías de derechos digitales</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Información sobre protección de datos personales y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. Información sobre protección de datos personales y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Información sobre protección de datos personales y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778938221150-5h4ni6wm2</odePageId>
+      <odeBlockId>block-1778940280954-8ewvighec</odeBlockId>
+      <blockName></blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778938221150-5h4ni6wm2</odePageId>
+          <odeBlockId>block-1778940280954-8ewvighec</odeBlockId>
+          <odeIdeviceId>idevice-1778940280953-2zouhfj3q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><embed width="100%" height="900" src="{{context_path}}/content/resources/Tarea 2.3.pdf" type="application/pdf"></embed></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778940280953-2zouhfj3q","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p><embed width=\"100%\" height=\"900\" src=\"{{context_path}}/content/resources/Tarea 2.3.pdf\" type=\"application/pdf\"></embed></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778938255488-xtyff55hb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Descripción del producto final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Descripción del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. Descripción del producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778938255488-xtyff55hb</odePageId>
+      <odeBlockId>block-1778940729228-tt1ndm50e</odeBlockId>
+      <blockName></blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778938255488-xtyff55hb</odePageId>
+          <odeBlockId>block-1778940729228-tt1ndm50e</odeBlockId>
+          <odeIdeviceId>idevice-1778940729225-lv2fyj76h</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1>Producto final: anatomía con likes y el cuerpo humano en redes</h1>
+<p>En esta situación de aprendizaje sobre los sistemas y aparatos del cuerpo humano, vais a crear un producto final muy especial: un <strong>perfil de red social científica </strong>para cada sistema del cuerpo.</p>
+<p>Imaginad que cada sistema del cuerpo humano (digestivo, respiratorio, nervioso, etc.) tiene su propia cuenta en una red social. Vuestro reto será darle vida digital a esos sistemas como si fueran “influencers” de la biología.</p>
+<h1>¿En qué consiste la tarea?</h1>
+<p>Cada grupo o equipo creará una cuenta divulgativa de un sistema del cuerpo humano, que deberá incluir la estructura típica de una red social:</p>
+<p>🖼️ Foto de perfil (representación del sistema)<br />🧾 Biografía (función principal y características)<br />📢 Publicaciones (explicaciones, curiosidades, enfermedades, funciones…)<br />⭐ Historias destacadas (esquemas, procesos, datos clave)<br />💬 Comentarios e interacciones (preguntas, respuestas, aclaraciones científicas)</p>
+<h1>¿Por qué trabajaremos así?</h1>
+<p>Este formato se ha elegido porque:</p>
+<ul>
+<li>Permite combinar distintos lenguajes (texto, imágenes, esquemas, iconos…), facilitando la comprensión de la anatomía y la fisiología.</li>
+<li>Conecta con vuestro entorno habitual, ya que está inspirado en las redes sociales que usáis a diario.</li>
+<li>Ayuda a aprender ciencia de una forma más visual, creativa y significativa.</li>
+<li>Además, está adaptado a las características de vuestro grupo de 3º ESO Diversificación, favoreciendo el aprendizaje práctico, motivador y conectado con la realidad.</li>
+</ul>
+<h1>Herramientas que utilizaremos</h1>
+<p>Para crear estos perfiles no utilizaremos redes sociales reales, ya que pueden presentar problemas de privacidad y uso en el entorno escolar. En su lugar, trabajaremos con <strong>Prezi</strong>, una herramienta digital que permite:</p>
+<ul>
+<li>Crear presentaciones dinámicas y visuales</li>
+<li>Utilizar plantillas editables muy atractivas</li>
+<li>Acceder desde cualquier dispositivo con conexión a internet</li>
+<li>Trabajar sin necesidad de instalación ni cuentas complejas</li>
+</ul>
+<h1>Objetivo</h1>
+<p>Con esta actividad vais a conseguir algo más que aprender contenidos: vais a entender el cuerpo humano desde dentro, comunicar ciencia de forma creativa y desarrollar competencias digitales y comunicativas clave.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778940729225-lv2fyj76h","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1>Producto final: anatomía con likes y el cuerpo humano en redes</h1>\n<p>En esta situación de aprendizaje sobre los sistemas y aparatos del cuerpo humano, vais a crear un producto final muy especial: un <strong>perfil de red social científica </strong>para cada sistema del cuerpo.</p>\n<p>Imaginad que cada sistema del cuerpo humano (digestivo, respiratorio, nervioso, etc.) tiene su propia cuenta en una red social. Vuestro reto será darle vida digital a esos sistemas como si fueran “influencers” de la biología.</p>\n<h1>¿En qué consiste la tarea?</h1>\n<p>Cada grupo o equipo creará una cuenta divulgativa de un sistema del cuerpo humano, que deberá incluir la estructura típica de una red social:</p>\n<p>🖼️ Foto de perfil (representación del sistema)<br />🧾 Biografía (función principal y características)<br />📢 Publicaciones (explicaciones, curiosidades, enfermedades, funciones…)<br />⭐ Historias destacadas (esquemas, procesos, datos clave)<br />💬 Comentarios e interacciones (preguntas, respuestas, aclaraciones científicas)</p>\n<h1>¿Por qué trabajaremos así?</h1>\n<p>Este formato se ha elegido porque:</p>\n<ul>\n<li>Permite combinar distintos lenguajes (texto, imágenes, esquemas, iconos…), facilitando la comprensión de la anatomía y la fisiología.</li>\n<li>Conecta con vuestro entorno habitual, ya que está inspirado en las redes sociales que usáis a diario.</li>\n<li>Ayuda a aprender ciencia de una forma más visual, creativa y significativa.</li>\n<li>Además, está adaptado a las características de vuestro grupo de 3º ESO Diversificación, favoreciendo el aprendizaje práctico, motivador y conectado con la realidad.</li>\n</ul>\n<h1>Herramientas que utilizaremos</h1>\n<p>Para crear estos perfiles no utilizaremos redes sociales reales, ya que pueden presentar problemas de privacidad y uso en el entorno escolar. En su lugar, trabajaremos con <strong>Prezi</strong>, una herramienta digital que permite:</p>\n<ul>\n<li>Crear presentaciones dinámicas y visuales</li>\n<li>Utilizar plantillas editables muy atractivas</li>\n<li>Acceder desde cualquier dispositivo con conexión a internet</li>\n<li>Trabajar sin necesidad de instalación ni cuentas complejas</li>\n</ul>\n<h1>Objetivo</h1>\n<p>Con esta actividad vais a conseguir algo más que aprender contenidos: vais a entender el cuerpo humano desde dentro, comunicar ciencia de forma creativa y desarrollar competencias digitales y comunicativas clave.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778938255488-xtyff55hb</odePageId>
+      <odeBlockId>block-1778950136837-o1j5soh2e</odeBlockId>
+      <blockName>Text</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778938255488-xtyff55hb</odePageId>
+          <odeBlockId>block-1778950136837-o1j5soh2e</odeBlockId>
+          <odeIdeviceId>idevice-1778950136835-4l1r48mnr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1280px;">
+<div class="figcaption header"><strong>Perfil de Instagram simulado del sistema inmune</strong></div>
+<img src="{{context_path}}/content/resources/instagram-profile-mockup.png" width="1280" height="1267" alt="" />
+<figcaption class="figcaption"><a href="https://social.rotato.app/templates/instagram-profile" class="author" target="_blank" rel="noopener">Rotato / IA Generativa</a>. <span class="title"><em>Simulación de un perfil de Instagram</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Creado con Rotato. Contenido visual generado mediante IA. Libre de derechos / Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778950136835-4l1r48mnr","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1280px;\">\n<div class=\"figcaption header\"><strong>Perfil de Instagram simulado del sistema inmune</strong></div>\n<img src=\"{{context_path}}/content/resources/instagram-profile-mockup.png\" width=\"1280\" height=\"1267\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://social.rotato.app/templates/instagram-profile\" class=\"author\" target=\"_blank\" rel=\"noopener\">Rotato / IA Generativa</a>. <span class=\"title\"><em>Simulación de un perfil de Instagram</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Creado con Rotato. Contenido visual generado mediante IA. Libre de derechos / Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778945083174-ft6ovc0ya</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Herramientas de curación de contenido</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Herramientas de curación de contenido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. Herramientas de curación de contenido</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778945083174-ft6ovc0ya</odePageId>
+      <odeBlockId>block-1778951167480-de8w0k3ho</odeBlockId>
+      <blockName>Text</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778945083174-ft6ovc0ya</odePageId>
+          <odeBlockId>block-1778951167480-de8w0k3ho</odeBlockId>
+          <odeIdeviceId>idevice-1778951167477-5dqnn3c7b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para ayudaros a organizar el aprendizaje y facilitar el desarrollo del proyecto, tendréis acceso a un Padlet diseñado especialmente para acompañaros paso a paso en el proyecto. No es solo un repositorio de información, sino un mapa visual del recorrido que vais a seguir. En él encontraréis, ordenadas por fases:</p>
+<ul>
+<li>Las tareas que debéis realizar en cada momento</li>
+<li>La secuencia del trabajo (qué hacer primero, qué después y qué sigue)</li>
+<li>Recursos necesarios para cada actividad</li>
+<li>Indicaciones y ayudas para avanzar con seguridad</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778951167477-5dqnn3c7b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para ayudaros a organizar el aprendizaje y facilitar el desarrollo del proyecto, tendréis acceso a un Padlet diseñado especialmente para acompañaros paso a paso en el proyecto. No es solo un repositorio de información, sino un mapa visual del recorrido que vais a seguir. En él encontraréis, ordenadas por fases:</p>\n<ul>\n<li>Las tareas que debéis realizar en cada momento</li>\n<li>La secuencia del trabajo (qué hacer primero, qué después y qué sigue)</li>\n<li>Recursos necesarios para cada actividad</li>\n<li>Indicaciones y ayudas para avanzar con seguridad</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778938273688-lopu0eu9b</odePageId>
+  <odeParentPageId>page-1778945083174-ft6ovc0ya</odeParentPageId>
+  <pageName>4.1. Para el alumnado</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.1. Para el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4.1. Para el alumnado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778938273688-lopu0eu9b</odePageId>
+      <odeBlockId>block-1778940769580-d280sdxv</odeBlockId>
+      <blockName></blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778938273688-lopu0eu9b</odePageId>
+          <odeBlockId>block-1778940769580-d280sdxv</odeBlockId>
+          <odeIdeviceId>idevice-1778940769579-1fuv03mxu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/g55l3m9dw2kdk1tn" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write"></iframe></p>
+<div style="display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;"><a href="https://padlet.com?ref=embed" style="display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;" target="_blank" rel="noopener"><span aria-hidden="" style="color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;">Made with</span><img src="https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png" height="12" style="padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block; width: auto; height: 12px;" alt="Hecho con Padlet" /></a></div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778940769579-1fuv03mxu","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/g55l3m9dw2kdk1tn\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\"></iframe></p>\n<div style=\"display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;\"><a href=\"https://padlet.com?ref=embed\" style=\"display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;\" target=\"_blank\" rel=\"noopener\"><span aria-hidden=\"\" style=\"color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;\">Made with</span><img src=\"https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png\" height=\"12\" style=\"padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block; width: auto; height: 12px;\" alt=\"Hecho con Padlet\" /></a></div>\n</div>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778941059147-uixqngtm0</odePageId>
+  <odeParentPageId>page-1778945083174-ft6ovc0ya</odeParentPageId>
+  <pageName>4.2. Para el profesorado</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.2. Para el profesorado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4.2. Para el profesorado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778941059147-uixqngtm0</odePageId>
+      <odeBlockId>block-1778941059147-ylndui828</odeBlockId>
+      <blockName></blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778941059147-uixqngtm0</odePageId>
+          <odeBlockId>block-1778941059147-ylndui828</odeBlockId>
+          <odeIdeviceId>idevice-1778941059147-9kwuj95ku</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este espacio permite agrupar recursos de forma clara y accesible, tener a mano herramientas digitales útiles, facilitar la preparación de actividades y materiales y agilizar la toma de decisiones didácticas.</p>
+<p><a href="https://www.symbaloo.com/shared/AAAAAaHWFk4AA41-5EMPpQ==" title="">Ver en Symbaloo</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778941059147-9kwuj95ku","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este espacio permite agrupar recursos de forma clara y accesible, tener a mano herramientas digitales útiles, facilitar la preparación de actividades y materiales y agilizar la toma de decisiones didácticas.</p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAAaHWFk4AA41-5EMPpQ==\" title=\"\">Ver en Symbaloo</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778938299637-qbc4cdc9j</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Línea temporal de actividades y tareas</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Línea temporal de actividades y tareas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. Línea temporal de actividades y tareas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778938299637-qbc4cdc9j</odePageId>
+      <odeBlockId>block-1778941371083-f0kk08p8g</odeBlockId>
+      <blockName></blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778938299637-qbc4cdc9j</odePageId>
+          <odeBlockId>block-1778941371083-f0kk08p8g</odeBlockId>
+          <odeIdeviceId>idevice-1778941371082-37iz8e3a6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Durante esta situación de aprendizaje tendréis disponible una herramienta llamada Tiki-Toki que supondrá una línea temporal interactiva. Será vuestro mapa visual, donde podréis ver de forma clara y ordenada todo lo que vais a hacer, paso a paso.</p>
+<p>Cada fase incluirá explicaciones breves, tareas concretas y recursos que os ayudarán a avanzar con seguridad. Además, os permite tener siempre a mano una visión global del proyecto:</p>
+<p><a href="https://www.tiki-toki.com/timeline/entry/2242696/Cuerpo-humano-3-Diver/" title="">Ver en Tiki-Toki</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778941371082-37iz8e3a6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Durante esta situación de aprendizaje tendréis disponible una herramienta llamada Tiki-Toki que supondrá una línea temporal interactiva. Será vuestro mapa visual, donde podréis ver de forma clara y ordenada todo lo que vais a hacer, paso a paso.</p>\n<p>Cada fase incluirá explicaciones breves, tareas concretas y recursos que os ayudarán a avanzar con seguridad. Además, os permite tener siempre a mano una visión global del proyecto:</p>\n<p><a href=\"https://www.tiki-toki.com/timeline/entry/2242696/Cuerpo-humano-3-Diver/\" title=\"\">Ver en Tiki-Toki</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778938383814-41hea25bs</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Guía didáctica</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6. Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778938383814-41hea25bs</odePageId>
+      <odeBlockId>block-1778951489574-4yeank97w</odeBlockId>
+      <blockName>Text</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778938383814-41hea25bs</odePageId>
+          <odeBlockId>block-1778951489574-4yeank97w</odeBlockId>
+          <odeIdeviceId>idevice-1778951489570-29ol793e7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Finalmente contaréis con una guía didáctica, un documento que os acompañará durante todo el proceso y que os ayudará a entender cómo se valorará vuestro trabajo.</p>
+<p>La guía reúne toda la información importante del proyecto de manera clara y organizada: las actividades y tareas que realizaréis, los criterios asociados a cada una de ellas y los instrumentos que se utilizarán para valorar vuestro progreso. <br /></p>
+<p>De esta forma, podréis consultar en cualquier momento qué se espera de vosotros y cómo avanzar de manera más segura y organizada.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778951489570-29ol793e7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Finalmente contaréis con una guía didáctica, un documento que os acompañará durante todo el proceso y que os ayudará a entender cómo se valorará vuestro trabajo.</p>\n<p>La guía reúne toda la información importante del proyecto de manera clara y organizada: las actividades y tareas que realizaréis, los criterios asociados a cada una de ellas y los instrumentos que se utilizarán para valorar vuestro progreso. <br /></p>\n<p>De esta forma, podréis consultar en cualquier momento qué se espera de vosotros y cómo avanzar de manera más segura y organizada.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778938313034-x7hhtryh3</odePageId>
+  <odeParentPageId>page-1778938383814-41hea25bs</odeParentPageId>
+  <pageName>6.1. Relación curricular</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.1. Relación curricular</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6.1. Relación curricular</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Relación curricular</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778938313034-x7hhtryh3</odePageId>
+      <odeBlockId>block-1778942699692-z3006owu8</odeBlockId>
+      <blockName></blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778938313034-x7hhtryh3</odePageId>
+          <odeBlockId>block-1778942699692-z3006owu8</odeBlockId>
+          <odeIdeviceId>idevice-1778942699691-a9j6fbakr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="100" height="90vh" style="width: 120%; height: 90vh; border: 0;" src="https://docs.google.com/document/d/e/2PACX-1vTLK4p-3gOJsWuCGP8dtOfhmUPIt0C_6c-RIc-tPMEUO_hU4TtG2YyIbtERhs2isQT_MyzSCf5Xl1ZM/pub?embedded=true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778942699691-a9j6fbakr","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p><iframe width=\"100\" height=\"90vh\" style=\"width: 120%; height: 90vh; border: 0;\" src=\"https://docs.google.com/document/d/e/2PACX-1vTLK4p-3gOJsWuCGP8dtOfhmUPIt0C_6c-RIc-tPMEUO_hU4TtG2YyIbtERhs2isQT_MyzSCf5Xl1ZM/pub?embedded=true\"></iframe></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778938328656-az3igc3rr</odePageId>
+  <odeParentPageId>page-1778938383814-41hea25bs</odeParentPageId>
+  <pageName>6.2. Relación de instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.2. Relación de instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6.2. Relación de instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778938328656-az3igc3rr</odePageId>
+      <odeBlockId>block-1778942846492-uqwamn7z0</odeBlockId>
+      <blockName></blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778938328656-az3igc3rr</odePageId>
+          <odeBlockId>block-1778942846492-uqwamn7z0</odeBlockId>
+          <odeIdeviceId>idevice-1778942846491-yv70pqvnr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><embed width="1200" height="600" src="{{context_path}}/content/resources/Tarea 8.1.pdf" type="application/pdf"></embed></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778942846491-yv70pqvnr","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p><embed width=\"1200\" height=\"600\" src=\"{{context_path}}/content/resources/Tarea 8.1.pdf\" type=\"application/pdf\"></embed></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778938359910-z9hwrcc36</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. Créditos</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>7. Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778938359910-z9hwrcc36</odePageId>
+      <odeBlockId>block-1778944372994-p21pqdcdb</odeBlockId>
+      <blockName>Descargar archivo fuente</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778938359910-z9hwrcc36</odePageId>
+          <odeBlockId>block-1778944372994-p21pqdcdb</odeBlockId>
+          <odeIdeviceId>idevice-1778944372993-tg74wcvbx</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><p style="text-align: center;"><em>Información general de este recurso educativo</em></p>
+<ul>
+<li style="text-align: left;" title=""><strong>Autoría:</strong> David Ruiz Moreno</li>
+<li style="text-align: left;" title=""><strong>Descripción:</strong> Recurso educativo para Biología y Geología de 3º Diversificación centrado en la organización anatómica y funcional del cuerpo humano. Incluye contenidos teóricos, actividades interactivas y evaluación</li>
+<li style="text-align: left;" title=""><strong>Licencia:</strong> <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license" title="">Creative Commons BY-SA 4.0</a></li>
+</ul></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
